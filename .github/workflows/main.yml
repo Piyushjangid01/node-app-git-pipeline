@@ -1,4 +1,4 @@
-name: Simple Node Test
+name: Node-App deploy 
 
 on:
   push:
